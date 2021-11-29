@@ -1,1 +1,1 @@
-# my-travel-journal
+# My Travel Journal 
