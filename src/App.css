@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
 
-i/* font-family: 'Poppins', sans-serif; */
+/* font-family: 'Poppins', sans-serif; */
 
 * {
   margin: 0;
@@ -17,3 +17,44 @@ i/* font-family: 'Poppins', sans-serif; */
   width: 50%;
   margin: 20px auto;
 }
+
+.title-logo {
+  font-size: 16px;
+  line-height: 17.5px;
+  color: #fff;
+}
+
+.world-logo {
+  font-size: 30px;
+  color: #fff;
+}
+
+.divContainer {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.pixDiv {
+  width: 30%;
+  margin-right: 20px;
+}
+
+.image {
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
